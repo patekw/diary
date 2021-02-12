@@ -1,2 +1,6 @@
-(29/1) - This week I have mainly gotten familiar with the external company's workplace, and finishing up my different environments. I have started working on the project plan. There is not much more to comment. 
+(29/1) - Week 4 - This week I have mainly gotten familiar with the external company's workplace, and finishing up my different environments. I have started working on the project plan. There is not much more to comment. 
+
+(5/2) - Week 5 - I have finished the project plan. So now there is a time plan to look at and see if I working in a good pace. 
+
+(12/2) - Week 6 - I already have some knowladge about REST and load balancing, but not so much about gRPC. So this week I have tried to tried to learn about how to use gRPC. In the course Advanced Distributed Systems we did an assignment with SOAP and REST, and this week I did that assignment by using gRPC. So now i am more familiar with gRPC and can more easily understand what is mentioned in literature studies surrounding gRPC.
 
